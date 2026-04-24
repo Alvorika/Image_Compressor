@@ -6,4 +6,4 @@ The **QUALITY** is **NOT** the target size or the ratio! it's a compress index t
 
 Enjoy~
 
-![Enjoy~](Koishi.png "Enjoy~")
+
